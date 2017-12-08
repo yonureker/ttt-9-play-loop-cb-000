@@ -40,5 +40,6 @@ def play(board)
   counter = 0
   while counter < 9 do
     turn(board)
+    counter +=
   end
 end
